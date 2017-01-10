@@ -1,6 +1,6 @@
 full_rebuild: true
-name: Gridster
-description: the material experience for jekyll
+name: JVC Scripts
+description: Personnalisez JVC
 destination: jvscripts.github.io
 url: https://jvscripts.github.io #place url
 baseurl: #place folder name if site is served in subfolder
@@ -31,7 +31,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post-material-sidebar-left"
+      layout: "post-classic-sidebar-left"
       type: "standard"
       homedisplay: "featimg"
 markdown: kramdown
