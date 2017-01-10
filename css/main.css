@@ -1864,7 +1864,7 @@ body {
 }
 body {
     line-height: 1.5;
-    background-color: #F9F9F9;
+    background-color: #121212;
 }
 h1,
 h2,
@@ -2507,7 +2507,7 @@ body.overflow {
     }
 }
 .main-menu {
-    background: #3F51B5;
+    background: #292929;
     color: #FFF;
     height: 64px;
     position: fixed;
